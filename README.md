@@ -1,5 +1,6 @@
 ## Модуль 1: Python, введение в DS
 
+
 1. Начало работы с Python 
 *  <a href="https://github.com/pytosha/new-python-repo/blob/main/Lesson2/notebooks/1.intro.ipynb">Основные типы и структуры данных в python</a>
 * <a href="https://github.com/pytosha/new-python-repo/blob/main/Lesson2/notebooks/2.loops.ipynb">Циклы, тернарные операторы, функции</a>
