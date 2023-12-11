@@ -19,3 +19,8 @@
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 <hr>
+
+2. Визуализация данных с Python 
+* <a href="https://github.com/pytosha/new-python-repo/blob/main/Lesson2/notebooks/1.intro.ipynb">Основные типы и структуры данных в python</a>
+* <a href="https://github.com/pytosha/new-python-repo/blob/main/Lesson2/notebooks/2.loops.ipynb">Циклы, тернарные операторы, функции</a>
+* <a href="https://github.com/pytosha/new-python-repo/blob/main/Lesson2/notebooks/4.exceptions.ipynb">Обработка ошибок</a>
