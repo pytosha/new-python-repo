@@ -29,11 +29,11 @@
 * <a href="https://github.com/pytosha/new-python-repo/blob/main/Lesson5/notebooks/incapsulation.ipynb">Инкапсуляция в python</a>
 * <a href="https://github.com/pytosha/new-python-repo/blob/main/Lesson5/notebooks/dataclass.ipynb">Датаклассы</a>
 <hr>
-#Задания к урокам
-<a href="https://github.com/pytosha/new-python-repo/blob/main/HomeTask/Task1_dmrf.ipynb">Задание 1 </a><br>
-<a href="https://github.com/pytosha/new-python-repo/blob/main/HomeTask/Task2_dmrf_visual.ipynb">Задание 2 </a><br>
-<a href="https://github.com/pytosha/new-python-repo/blob/main/HomeTask/Task3_dmrf_OOP.ipynb">Задание 3 </a><br>
-<a href="https://github.com/pytosha/new-python-repo/blob/main/HomeTask/HH-api.ipynb">Похожий пример </a><br>
-<a href="https://github.com/pytosha/new-python-repo/blob/main/HomeTask/HH-api-OOP.ipynb">Похожий пример с использованием классов</a><br>
-<a href="https://github.com/pytosha/new-python-repo/blob/main/HomeTask/dmrf_selenium.ipynb">Пример с использованием библиотеки Selenium </a>
+<h3>Задания к урокам</h3>  
+* <a href="https://github.com/pytosha/new-python-repo/blob/main/HomeTask/Task1_dmrf.ipynb">Задание 1 Сбор данных</a><br>
+* <a href="https://github.com/pytosha/new-python-repo/blob/main/HomeTask/Task2_dmrf_visual.ipynb">Задание 2 Визуализация</a><br>
+* <a href="https://github.com/pytosha/new-python-repo/blob/main/HomeTask/Task3_dmrf_OOP.ipynb">Задание 3 ООП</a><br>
+* <a href="https://github.com/pytosha/new-python-repo/blob/main/HomeTask/HH-api.ipynb">Похожий пример </a><br>
+* <a href="https://github.com/pytosha/new-python-repo/blob/main/HomeTask/HH-api-OOP.ipynb">Похожий пример с использованием классов</a><br>
+* <a href="https://github.com/pytosha/new-python-repo/blob/main/HomeTask/dmrf_selenium.ipynb">Пример с использованием библиотеки Selenium </a>
 <hr>
