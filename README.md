@@ -24,13 +24,13 @@
 * <a href="https://github.com/pytosha/new-python-repo/blob/main/Lesson5/notebooks/classes_.ipynb">Создание объектов в python c помощью классов</a>
 * <a href="https://github.com/pytosha/new-python-repo/blob/main/Lesson5/notebooks/class_decorator.ipynb">Классы декораторы</a>
 * <a href="https://github.com/pytosha/new-python-repo/blob/main/Lesson5/notebooks/dunder_methods.ipynb">Магические методы классов</a>
-* <a href="https://github.com/pytosha/new-python-repo/blob/main/Lesson5/notebooks/property.ipynb">Plotly</a>
-* <a href="https://github.com/pytosha/new-python-repo/blob/main/Lesson5/notebooks/staticmethods.ipynb">Plotly</a>
-* <a href="https://github.com/pytosha/new-python-repo/blob/main/Lesson5/notebooks/incapsulation.ipynb">i</a>
-* <a href="https://github.com/pytosha/new-python-repo/blob/main/Lesson5/notebooks/dataclass.ipynb">Plotly</a>
+* <a href="https://github.com/pytosha/new-python-repo/blob/main/Lesson5/notebooks/property.ipynb">Свойства классов</a>
+* <a href="https://github.com/pytosha/new-python-repo/blob/main/Lesson5/notebooks/staticmethods.ipynb">Статические методы классов</a>
+* <a href="https://github.com/pytosha/new-python-repo/blob/main/Lesson5/notebooks/incapsulation.ipynb">Инкапсуляция в python</a>
+* <a href="https://github.com/pytosha/new-python-repo/blob/main/Lesson5/notebooks/dataclass.ipynb">Датаклассы</a>
 <hr>
 <a href="https://github.com/pytosha/new-python-repo/blob/main/HomeTask">Задания к урокам</a><br>
 <a href="https://github.com/pytosha/new-python-repo/blob/main/HomeTask/HH-api.ipynb">Похожий пример </a><br>
-<a href="https://github.com/pytosha/new-python-repo/blob/main/HomeTask/HH-api-OOP.ipynb">Похожий пример с использованием классов</a>
+<a href="https://github.com/pytosha/new-python-repo/blob/main/HomeTask/HH-api-OOP.ipynb">Похожий пример с использованием классов</a><br>
 <a href="https://github.com/pytosha/new-python-repo/blob/main/HomeTask/dmrf_selenium.ipynb">Пример с использованием библиотеки Selenium </a>
 <hr>
